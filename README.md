@@ -2,7 +2,7 @@
 
 #### Reference
 
-* https://www.kaggle.com/pranavsingaraju/facemask-detection-dataset-20000-images
+* [Kaggle Face Mask Detection Dataset](https://www.kaggle.com/pranavsingaraju/facemask-detection-dataset-20000-images)
 
 #### Description (Korean)
 
